@@ -1,0 +1,17 @@
+p{
+    position: relative;
+    top: 150px;
+    
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    z-index: 1;
+    font-size: 26px;
+    font-family: 'Permanent Marker', cursive;
+
+
+
+}
+img{
+    position: absolute;
+
+}
